@@ -11,6 +11,9 @@ This GitHib repo contains..
 1. Grad School classes/projects
 2. Some of my own personal projects
 
+![](https://img.shields.io/badge/<Languages>-<Python & R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 More about me: 
 1. I got interested in machine learning and research in social science through my initial passion for cognitive science. This led me to a general curiosity about information and data processing/interpretation (in the brain and by machines), as well as how bias in this process alters our perception and understanding of the world.
 2. I have a strong drive to uplift and encourage others, and it has made me a better teammate, mentor, and friend to those around me both personally and professionally.
