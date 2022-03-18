@@ -11,6 +11,11 @@ This GitHib repo contains..
 1. Grad School classes/projects
 2. Some of my own personal projects
 
+More about me: 
+1. I got interested in machine learning and research in social science through my initial passion for cognitive science. This led me to a general curiosity about information and data processing/interpretation (in the brain and by machines), as well as how bias in this process alters our perception and understanding of the world.
+2. I have a strong drive to uplift and encourage others, and it has made me a better teammate, mentor, and friend to those around me both personally and professionally.
+3. I love to learn. While it can be uncomfortable to be in the vulnerable 'novice' position, I think that it can be more uncomfortable to be hungry for knowledge. The freedom or enjoyment that comes with learning something new is difficult to describe, but it drives me to keep seeking out answers to the questions I come across.
+
 <!--
 **s-cheung/s-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
