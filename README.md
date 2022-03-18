@@ -1,6 +1,9 @@
 ![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
 ### Hi there 👋 My name is Sierra!
 email: sgc2143@columbia.edu
+![](https://img.shields.io/badge/Code-R-ff69b4)
+![](https://img.shields.io/badge/Code-Python-ff69b4)
+![](https://img.shields.io/badge/OS-Mac-ff69b4)
 
 Currently I am..
 1. Studying Quantitative Methods in Social Science with a focus on Data Science (graduating with a Master's in May 2022)
@@ -10,8 +13,6 @@ Currently I am..
 This GitHib repo contains..
 1. Grad School classes/projects
 2. Some of my own personal projects
-
-![](https://img.shields.io/badge/languages-python%2C%20R-ff69b4)
 
 
 More about me: 
