@@ -1,6 +1,7 @@
 ![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
 ### Hi there 👋 My name is Sierra!
 email: sgc2143@columbia.edu
+pronouns: she/her
 
 
 ![](https://img.shields.io/badge/Code-R-ff69b4)
@@ -10,7 +11,8 @@ email: sgc2143@columbia.edu
 Currently I am..
 1. Studying Quantitative Methods in Social Science with a focus on Data Science (graduating with a Master's in May 2022)
 2. Interested in working with machine learning models (particularly for image recognition)
-3. Considering jobs for machine learning and data analysis in various industries
+3. Learning about data visualization and convolutional neural network architectures
+4. Considering jobs for machine learning and data analysis in various industries
 
 This GitHib repo contains..
 1. Grad School classes/projects
@@ -21,6 +23,8 @@ More about me:
 1. I got interested in machine learning and research in social science through my initial passion for cognitive science. This led me to a general curiosity about information and data processing/interpretation (in the brain and by machines), as well as how bias in this process alters our perception and understanding of the world.
 2. I have a strong drive to uplift and encourage others, and it has made me a better teammate, mentor, and friend to those around me both personally and professionally.
 3. I love to learn. While it can be uncomfortable to be in the vulnerable 'novice' position, I think that it can be more uncomfortable to be hungry for knowledge. The freedom or enjoyment that comes with learning something new is difficult to describe, but it drives me to keep seeking out answers to the questions I come across.
+
+If you have any questions about my work or would like to colaborate on a project, feel free to get in contact!
 
 <!--
 **s-cheung/s-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
