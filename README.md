@@ -1,6 +1,7 @@
 ![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
 # Hi there 👋 My name is Sierra!
 email: sgc2143@columbia.edu
+
 pronouns: she/her
 
 
