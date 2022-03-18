@@ -11,7 +11,7 @@ This GitHib repo contains..
 1. Grad School classes/projects
 2. Some of my own personal projects
 
-![](https://img.shields.io/badge/<Languages>-<Python & R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/languages-python%2C%20R-ff69b4)
 
 
 More about me: 
