@@ -1,6 +1,5 @@
 ![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
 ### Hi there 👋 My name is Sierra!
-My contact info is below: 
 email: sgc2143@columbia.edu
 
 Currently I am..
