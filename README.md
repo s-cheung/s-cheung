@@ -1,5 +1,9 @@
 ![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
-### Hi there 👋
+### Hi there 👋 My name is Sierra!
+
+Currently I am..
+1. Studying Quantitative Methods in Social Science with a focus on Data Science
+2. 
 
 <!--
 **s-cheung/s-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
