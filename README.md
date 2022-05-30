@@ -1,4 +1,4 @@
-![This is an image](https://github.com/s-cheung/s-cheung/blob/main/Header.png)
+![This is an image](https://github.com/s-cheung/s-cheung/blob/main/header.png)
 # Hi there 👋 My name is Sierra!
 email: sgc2143@columbia.edu
 
