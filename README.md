@@ -1,21 +1,20 @@
-![This is an image](https://github.com/s-cheung/s-cheung/blob/main/header.png)
-# Hi there 👋 My name is Sierra!
-email: sgc2143@columbia.edu
+
+# Hi there 👋 My name is Sierra Cheung
+email: sierragcheung@gmail.com
 
 pronouns: she/her
 
-### Currently I am..
-1. Studying Quantitative Methods in Social Science with a focus on Data Science (graduating with a Master's in May 2022)
-2. Interested in working with machine learning models (particularly for image recognition or time-series forecasting)
-3. Learning about data visualization in R and convolutional neural network architectures in Python using keras
-4. Considering jobs for machine learning and data analysis in various industries
+### About me
+1. Currently I am looking for jobs in research and data science, specifically for positions utilizing statistical analysis and machine learning
+2. I have experience working in cognitive science research, mostly lab management and project management. I was responsible for training research assistants, and overseeing multiple studies ranging from computer vision and ML to behavioral and perceptual training studies.
+3. My long-term goals are to become an expert in data science and research methods, either leading my own research lab or becoming a senior data scientist.
 
 ### This GitHib repo contains..
 1. Grad School classes/projects
-2. Some of my own personal projects
+2. My own personal projects
 
 
-### More about me: 
+### More about my background: 
 1. I got interested in machine learning and research in social science through my initial passion for cognitive science. This led me to a general curiosity about information and data processing/interpretation (in the brain and by machines), as well as how bias in this process alters our perception and understanding of the world.
 2. I have a strong drive to uplift and encourage others, and it has made me a better teammate, mentor, and friend to those around me both personally and professionally. I work best in a team effort that involves transparency, sharing information, and mutual guidance, rather than in a highly competitive environment.
 3. I love to learn. While it can be uncomfortable to be in the vulnerable as a 'novice', I think it's often more uncomfortable to be ignorant. The freedom or enjoyment that comes with learning something new drives me to keep seeking out answers to the questions I come across.
